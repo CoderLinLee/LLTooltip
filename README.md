@@ -25,3 +25,11 @@ TS写的弹框组件
 
 ![img](https://github.com/CoderLinLee/LLTooltip/blob/main/test1.png)
 
+![img](https://github.com/xiaohu036/PopView/blob/master/1.gif)
+
+![img](./test1.png)
+
+
+
+
+
