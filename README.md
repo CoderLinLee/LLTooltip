@@ -23,5 +23,5 @@ TS写的弹框组件
 </LLTooltip>
 ```
 
-![img](https://github.com/CoderLinLee/LLTooltip/blob/main/%E6%88%AA%E5%9B%BE.png)
+![img](https://github.com/CoderLinLee/LLTooltip/blob/main/test1.png)
 
