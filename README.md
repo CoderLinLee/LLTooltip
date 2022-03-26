@@ -1,8 +1,6 @@
-# LLTooltip
+# LLTooltip：TS写的简单弹框组件
 
-TS写的弹框组件
-
-1、使用,包裹要显示的内容就可以了
+#### 1、使用,包裹要显示的内容就可以了
 
 ```tsx
 <LLTooltip
@@ -23,11 +21,9 @@ TS写的弹框组件
 </LLTooltip>
 ```
 
-![img](https://github.com/CoderLinLee/LLTooltip/blob/main/test1.png)
+#### 2、效果
 
 ![img](https://github.com/xiaohu036/PopView/blob/master/1.gif)
-
-![img](./test1.png)
 
 
 
